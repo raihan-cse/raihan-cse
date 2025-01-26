@@ -20,7 +20,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
     <td></td>
     <td>
       <a  target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-cse" alt="stats" >
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-cse&layout=compact" alt="stats" >
       </a>
     </td>
   </tr>
