@@ -7,7 +7,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 ## 👨‍💻 Skills & Experiance: 
 
-<table>
+<table width="100%">
   <tr>
     <td>
       ✅ WordPress <br> 
