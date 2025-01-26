@@ -16,7 +16,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
       ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
       ✅ Photoshop / Illustrator <br>
     </td>
-    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-cse)]</td>
+    <td>![GitHub stats](https://github-readme-stats.vercel.app/api?username=raihan-cse&show_icons=true&count_private=true)</td>
   </tr>
 </table>
 
