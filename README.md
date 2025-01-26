@@ -16,7 +16,11 @@ I’m a Front End Web developer who is passionate about making error-free websit
       ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
       ✅ Photoshop / Illustrator <br>
     </td>
-    <td>![GitHub stats](https://github-readme-stats.vercel.app/api?username=raihan-cse&show_icons=true&count_private=true)</td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-cse" alt="stats" >
+      </a>
+    </td>
   </tr>
 </table>
 
