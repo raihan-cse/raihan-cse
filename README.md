@@ -7,6 +7,19 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 ## 👨‍💻 Skills & Experiance: 
 
+<table>
+  <tr>
+    <td>
+      ✅ WordPress <br> 
+      ✅ JavaScript <br>
+      ✅ PHP <br>
+      ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+      ✅ Photoshop / Illustrator <br>
+    </td>
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-cse)]</td>
+  </tr>
+</table>
+
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
