@@ -41,9 +41,9 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
 [facebook-url]: https://facebook.com/rkps.dev
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=blue
 [linkedin-url]: https://www.linkedin.com/in/raihan-kabir-384274143/
-[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-support%40learnwithsumit.com-lightgray
+[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-raihancse46%40gmail.com-lightgray
 [mail-url]: mailto:raihancse46@gmail.com
 
 
