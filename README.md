@@ -1,7 +1,9 @@
 ## Hi I am Raihan Kabir 👋, (Web Developer)
 
+
 ## 🙋‍♂️ About Me,
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. Over the past years, I created 50+ websites for personal and official clients.
+
 
 ## 👨‍💻 Skills & Experiance: 
   ☑ JavaScript <br> 
@@ -9,6 +11,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
   ☑ Next JS <br>
   ☑ HTML5 / CSS3 / Tailwind CSS / Bootstrap <br>
   ☑ Photoshop / Figma <br>
+
 
 ## 📊 Statistics
 <table border=0 width=1000>
@@ -27,11 +30,8 @@ I’m a Front End Web developer who is passionate about making error-free websit
   </tr>
 </table>
 
-## 🚀 Connect With 
 
-<!-- CONTACT  -->
-
-## ![contactIcon][contacticon-shield] Contact us
+## 🚀 Contact Us
 
 [![Facebook][facebook-shield]][facebook-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -41,10 +41,8 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
 [facebook-url]: https://facebook.com/rkps.dev
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=555
 [linkedin-url]: https://www.linkedin.com/in/raihan-kabir-384274143/
-
 [mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-support%40learnwithsumit.com-lightgray
 [mail-url]: mailto:raihancse46@gmail.com
 
