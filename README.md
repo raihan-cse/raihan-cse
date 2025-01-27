@@ -27,8 +27,26 @@ I’m a Front End Web developer who is passionate about making error-free websit
   </tr>
 </table>
 
-## 🚀 Stay With 
+## 🚀 Connect With 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raihan-cse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raihan-kabir-384274143/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rkps.dev)  
+<!-- CONTACT  -->
+
+## ![contactIcon][contacticon-shield] Contact us
+
+[![Facebook][facebook-shield]][facebook-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![mail][mail-shield]][mail-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
+[facebook-url]: https://facebook.com/rkps.dev
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/raihan-kabir-384274143/
+
+[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-support%40learnwithsumit.com-lightgray
+[mail-url]: mailto:raihancse46@gmail.com
+
 
 
